@@ -10,7 +10,7 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="asasjhfh"
+        android:text="asasjhfhjhf"
         tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="343dp" />
 </android.support.constraint.ConstraintLayout>
