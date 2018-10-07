@@ -2,8 +2,8 @@ package com.smartresidesolutions.smartreside;
 
 import android.app.DatePickerDialog;
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
@@ -13,10 +13,11 @@ import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.Switch;
 
-
 import java.util.ArrayList;
 
 public class AddComplaint extends AppCompatActivity implements DatePickerDialog.OnDateSetListener{
+
+    //Git tutorial
 
     EditText fromDate;
     Spinner spinner,prioiritySpinner;
