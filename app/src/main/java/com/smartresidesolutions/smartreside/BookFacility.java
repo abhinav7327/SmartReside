@@ -1,9 +1,5 @@
 package com.smartresidesolutions.smartreside;
 
-import android.os.Parcel;
-import android.os.Parcelable;
-import android.widget.EditText;
-
 import java.io.Serializable;
 
 class BookFacility implements Serializable {
